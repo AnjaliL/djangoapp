@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'pythonpostgre'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_5e2d01ad8d634de7998906e3e3e060cb }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_894710f4cc564c6896f6cc9c20a049cd }}
